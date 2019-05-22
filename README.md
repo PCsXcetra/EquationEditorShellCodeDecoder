@@ -1,6 +1,7 @@
 # EquationEditorShellCodeDecoder
 Tool to decode the encoded Shellcode of this type found in office documents
 
-See the Blogpost to se how to use this.
+See the Blogpost to see how to use this.
+https://pcsxcetrasupport3.wordpress.com/2019/05/22/a-deeper-look-at-equation-editor-cve-2017-11882-with-encoded-shellcode/
 I also have decoding notes for this sample in the 7Zip file.
 The password is the standard infected just incase something hits on the shellcode.
