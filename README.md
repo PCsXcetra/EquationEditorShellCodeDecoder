@@ -6,4 +6,4 @@ https://pcsxcetrasupport3.wordpress.com/2019/05/22/a-deeper-look-at-equation-edi
 I also have decoding notes for this sample in the 7Zip file.
 The password is the standard infected just incase something hits on the shellcode.
 
-Update: 2021-09-13 Uploaded latest version of the Decoder Version 1.0.0.23  No password.
+Update: 2021-09-13 Uploaded latest version of the Decoder Version 1.0.0.23 File name: DecodeEquationShellCode.7z   No password required.
